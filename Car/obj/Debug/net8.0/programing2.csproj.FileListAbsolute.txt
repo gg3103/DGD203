@@ -1,0 +1,14 @@
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\bin\Debug\net8.0\programing2.exe
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\bin\Debug\net8.0\programing2.deps.json
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\bin\Debug\net8.0\programing2.runtimeconfig.json
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\bin\Debug\net8.0\programing2.dll
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\bin\Debug\net8.0\programing2.pdb
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.AssemblyInfoInputs.cache
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.AssemblyInfo.cs
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.dll
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\refint\programing2.dll
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.pdb
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\programing2.genruntimeconfig.cache
+C:\Users\Göktuğ\RiderProjects\programing2\programing2\obj\Debug\net8.0\ref\programing2.dll
